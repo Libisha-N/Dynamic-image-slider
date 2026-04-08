@@ -1,5 +1,5 @@
 # Dynamic-image-slider
-🖼️ Visual Preview (Concept)
+Visual Preview (Concept)
 
 Here’s what a dynamic image slider typically looks like:
 
@@ -9,3 +9,4 @@ Smooth transitions (fade/slide)
 
 Optional thumbnails or dots for navigation
 
+ https://libisha-n.github.io/Dynamic-image-slider/
